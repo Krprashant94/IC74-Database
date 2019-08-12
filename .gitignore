@@ -9,7 +9,6 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-working/
 .ipynb_checkpoints/
 extracted/
 build/
@@ -106,3 +105,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+working/DB/74XX Serise.txt
+working/DB/74XX.db
+working/Java/74XX.db
+working/Java/ic 744.xd
